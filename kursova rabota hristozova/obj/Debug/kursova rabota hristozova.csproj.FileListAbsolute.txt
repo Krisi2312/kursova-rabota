@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\bin\Debug\kursova rabota hristozova.exe.config
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\bin\Debug\kursova rabota hristozova.exe
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\bin\Debug\kursova rabota hristozova.pdb
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova rabota hristozova.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova_rabota_hristozova.Form1.resources
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova_rabota_hristozova.Properties.Resources.resources
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova rabota hristozova.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova rabota hristozova.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova rabota hristozova.exe
+C:\Users\Admin\source\repos\kursova rabota hristozova\kursova rabota hristozova\obj\Debug\kursova rabota hristozova.pdb
